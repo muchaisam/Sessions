@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sessions</string>
+    <string name="email">Enter your Email</string>
+    <string name="pwd">Enter you password</string>
+    <string name="login">login</string>
+    <string name="logout">logout</string>
+</resources>

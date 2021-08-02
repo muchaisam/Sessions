@@ -1,0 +1,1 @@
+This project is to help learn session management in android.
